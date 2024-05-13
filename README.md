@@ -15,6 +15,7 @@ No código terá vários métodos:
 - get_new_chat()
   - Aqui, eu coloco as informações do meu chatbot.
   - Tenho que explicar um pouco sobre a minha variável response, eu não conseguia de jeito nenhum iniciar uma sessão com o chatbot, então busquei outra solução. Na minha tela de fluxo do chatbot, cliquei para conversar com o     bot, cliquei para inspecionar a página, fui para a aba network e peguei o link [https://api.verbeux.com.br/dialog-manager-proxy/](https://api.verbeux.com.br/dialog-manager-proxy/), que é a request do chat. Daí, só coloquei os dados do chatbot e sua chave API.
+  - Se tudo der certo, ele retorna os dados JSON da response.
 
 
 - send_message()
