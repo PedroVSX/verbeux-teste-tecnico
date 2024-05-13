@@ -8,8 +8,7 @@
 - A visualização do projeto é pelo terminal.
 
 # Descrição do projeto
-O código foi escrito em Python;
-Os imports usados são: requests e firebase_admin;
+O código foi escrito em Python, os imports usados são: *requests* e *firebase_admin*;
 
 No código terá vários métodos:
 - *get_new_chat()*
