@@ -36,7 +36,7 @@ No código há uma variável *cred* que basicamente é o endereço em que o [cha
 
 Mais abaixo há um menu, que foi feito utilizando *while*, que pega a escolha do usuário e realiza a ação que ele desejar.
 
-No código para conversar com o chatbot, há o input de mensagens e o retorno do *response* para minha, que será importante, pois este faz as verificações se a resposta do bot é uma despedida, se é uma avaliação positiva ou negativa.
+No código para conversar com o chatbot, há o input de mensagens e o retorno do *response*, que será importante, pois este faz as verificações se a resposta do bot é uma despedida, se é uma avaliação positiva ou negativa.
 
 # Instruções para usar o projeto
 - Execute o arquivo [main.py](https://github.com/PedroVSX/verbeux-teste-tecnico/blob/main/teste-tecnico/main.py);
