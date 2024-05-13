@@ -3,8 +3,9 @@
 - [main.py](https://github.com/PedroVSX/verbeux-teste-tecnico/blob/main/teste-tecnico/main.py) Arquivo main, todo o código do chatbot está aqui.
 
 # Esclarecimentos
-O chatbot usado foi o de abordagem por fluxo.
-O código foi escrito em inglês! Mas os textos para visualização do usuário estão em português.
+- O chatbot usado foi o de abordagem por fluxo.
+- O código foi escrito em inglês! Mas os textos para visualização do usuário estão em português.
+- A visualização do projeto é pelo terminal.
 
 # Descrição do projeto
 O código foi escrito em Python;
@@ -30,4 +31,10 @@ No código terá vários métodos:
 - *print_database()*
   - Basicamente, ele pega todos os documentos das coleções e printa o *id* e a *review* de cada um.
 
-# Como executar o projeto
+# Instruções para usar o projeto
+- Execute o arquivo [main.py](https://github.com/PedroVSX/verbeux-teste-tecnico/blob/main/teste-tecnico/main.py);
+- No terminal, aparecerá um menu com 3 opções:
+  1. Falar com chatbot
+  2. Ver avaliações
+  0. Sair
+ 
