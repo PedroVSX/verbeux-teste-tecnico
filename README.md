@@ -22,6 +22,9 @@ No código terá vários métodos:
   - O meu response eu faço uma solicitação de PUT à API, onde coloco o *data* e a minha chave.
   - Se tudo der certo, ele me retorna a primeira reposta do chat.
   
-- *add_database()*
+- *add_database(message, positive)*
+  - Ele pega a variável *message* e coloca dentro de *review*, que é basicamente um campo de um documento do banco de dados.
+  - Na chamada da função, que está mais abaixo dessa função, o código realiza uma separação de avaliação (positiva ou negativa), e na chamada, se for positiva insere como parâmetro *True*, senão insere *False*.
+  - 
 - *print_database()*
 
