@@ -33,7 +33,15 @@ No código terá vários métodos:
 
 # Instruções para usar o projeto
 - Execute o arquivo [main.py](https://github.com/PedroVSX/verbeux-teste-tecnico/blob/main/teste-tecnico/main.py);
-- No terminal, aparecerá um menu com 2 opções e uma opção de sair:
+- No terminal, aparecerá um menu com 3 opções:
   1. Falar com chatbot
   2. Ver avaliações
+  3. Sair
+- Caso execute 1:
+  1. Primeiramente, cumprimente o chatbot, digite "Oi" ou "Olá".
+  2. Logo em seguida, o bot pedirá para você realizar a sua avaliação, portanto digite a sua avaliação sobre alguma loja. Ex: "Eu adorei a comida do McDonald's, ela é simplesmente sensacional!", "Gostaria de avaliar o Burger King, os hambúrgueres deles são terríveis".
+  3. Caso queira realizar mais alguma avaliação, digite novamente ela.
+  4. Para sair da conversa com o bot, se despeça dele, digite "Adeus" ou "Tchau".
+- Caso execute 2:
+  - Basicamente, o código irá printar automaticamente todas avaliações disponíveis no banco de dados.
  
