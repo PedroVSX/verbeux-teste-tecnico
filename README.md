@@ -24,7 +24,7 @@ No código terá vários métodos:
   
 - *add_database(message, positive)*
   - Ele pega a variável *message* e coloca dentro de *review*, que é basicamente um campo de um documento do banco de dados.
-  - Na chamada da função, que está mais abaixo dessa função, o código realiza uma separação de avaliação (positiva ou negativa), e na chamada, se for positiva insere como parâmetro *True*, senão insere *False*.
-  - 
+  - Na chamada do método, que está mais abaixo dele, o código realiza uma separação de avaliação (positiva ou negativa), e na chamada, se for positiva insere como parâmetro *True*, senão insere *False*.
+  - Dentro do método, o código verifica se é positivo ou não e coloca *review* dentro de *PositiveReviews* ou *NegativeReviews*, que são coleções do banco de dados.
 - *print_database()*
 
