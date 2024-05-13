@@ -19,7 +19,8 @@ No código terá vários métodos:
 
 - *send_message(chat_id, message)*
   - Na variável *data*, eu coloco a mensagem.
-  - O meu response eu faço uma solicitação de put à API, aí onde coloco o *data*
+  - O meu response eu faço uma solicitação de PUT à API, onde coloco o *data* e a minha chave.
+  - Se tudo der certo, ele me retorna a primeira reposta do chat.
   
 - *add_database()*
 - *print_database()*
