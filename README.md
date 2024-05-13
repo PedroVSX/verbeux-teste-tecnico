@@ -8,7 +8,8 @@ O código foi escrito em inglês! Mas os textos para visualização do usuário 
 
 # Descrição do projeto
 No código terá vários métodos:
-- get_new_chat() | Aqui, eu coloco as informações do meu chatbot
+- get_new_chat() | Aqui, eu coloco as informações do meu chatbot.
+  - AUhus
 - send_message()
 - add_database()
 - print_database()
