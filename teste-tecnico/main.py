@@ -5,7 +5,6 @@ from firebase_admin import firestore, credentials
 ########################################################################################
 snapshot_version = "663d6233911526d19f7d8d1a"
 api_key = "4dc62d17-0e61-11ef-9ad6-a2a378993290"
-
 headers = {"api-key": api_key}
 
 def get_new_chat():
