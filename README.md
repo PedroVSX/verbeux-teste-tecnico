@@ -28,4 +28,6 @@ No código terá vários métodos:
   - Dentro do método, o código verifica se é positivo ou não, cria um no banco de dados documento e coloca *review* dentro de *PositiveReviews* ou *NegativeReviews*, que são coleções do banco de dados.
 
 - *print_database()*
+  - Basicamente, ele pega todos os documentos das coleções e printa o *id* e a *review* de cada um.
 
+# Como executar o projeto
