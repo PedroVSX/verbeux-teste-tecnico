@@ -36,7 +36,11 @@ No código há uma variável *cred* que basicamente é o endereço em que o [cha
 
 Mais abaixo há um menu, que foi feito utilizando *while*, que pega a escolha do usuário e realiza a ação que ele desejar.
 
-No código para conversar com o chatbot, há o input de mensagens e o retorno do *response*, que será importante, pois este faz as verificações se a resposta do bot é uma despedida, se é uma avaliação positiva ou negativa.
+No código para conversar com o chatbot (escolha 1), há o input de mensagens e o retorno do *response*, que será importante, pois este faz as verificações se a resposta do bot é uma despedida, se é uma avaliação positiva ou negativa.
+
+No código para visualizar as avaliações (escolha 2), o programa coloca dentro de uma variável *collections* todas as coleções disponíveis no meu banco de dados (no caso NegativeReviews e PositiveReviews). Em seguida, um loop é realizado para printar o id da coleção e depois uma chamada de método print_database() printará todos os documentos que estão dentro de cada coleção.
+
+Na escolha de sair (escolha 0), o programa para.
 
 # Instruções para usar o projeto
 - Execute o arquivo [main.py](https://github.com/PedroVSX/verbeux-teste-tecnico/blob/main/teste-tecnico/main.py);
