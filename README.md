@@ -32,6 +32,12 @@ No código terá vários métodos:
 - *print_database()*
   - Basicamente, ele pega todos os documentos das coleções e printa o *id* e a *review* de cada um.
 
+No código há uma variável *cred* que basicamente é o endereço em que o [chatbot-avaliacoes-firebase-adminsdk-e8k2s-edbb8c5bea.json](https://github.com/PedroVSX/verbeux-teste-tecnico/blob/main/teste-tecnico/chatbot-avaliacoes-firebase-adminsdk-e8k2s-edbb8c5bea.json) se encontra, é necessário ele estar no mesmo endereço que [main.py](https://github.com/PedroVSX/verbeux-teste-tecnico/blob/main/teste-tecnico/main.py) para funcionar o programa.
+
+Mais abaixo há um menu, que foi feito utilizando *while*, que pega a escolha do usuário e realiza a ação que ele desejar.
+
+No código para conversar com o chatbot, há o input de mensagens e o retorno do *response* para minha, que será importante, pois este faz as verificações se a resposta do bot é uma despedida, se é uma avaliação positiva ou negativa.
+
 # Instruções para usar o projeto
 - Execute o arquivo [main.py](https://github.com/PedroVSX/verbeux-teste-tecnico/blob/main/teste-tecnico/main.py);
 
