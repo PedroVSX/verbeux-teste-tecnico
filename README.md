@@ -33,7 +33,7 @@ No código terá vários métodos:
 
 # Instruções para usar o projeto
 - Execute o arquivo [main.py](https://github.com/PedroVSX/verbeux-teste-tecnico/blob/main/teste-tecnico/main.py);
-- 
+
 - No terminal, aparecerá um menu com 3 opções:
   1. Falar com chatbot
   2. Ver avaliações
