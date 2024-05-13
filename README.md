@@ -9,7 +9,6 @@
 
 # Descrição do projeto
 O código foi escrito em Python;
-
 Os imports usados são: requests e firebase_admin;
 
 No código terá vários métodos:
