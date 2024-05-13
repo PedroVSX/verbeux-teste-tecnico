@@ -36,6 +36,8 @@ Há algumas variáveis definidas no ínicio, que são a *snapshot_version*, *api
 
 No código há uma variável *cred* que basicamente é o endereço em que o [chatbot-avaliacoes-firebase-adminsdk-e8k2s-edbb8c5bea.json](https://github.com/PedroVSX/verbeux-teste-tecnico/blob/main/teste-tecnico/chatbot-avaliacoes-firebase-adminsdk-e8k2s-edbb8c5bea.json) se encontra, é necessário ele estar no mesmo endereço que [main.py](https://github.com/PedroVSX/verbeux-teste-tecnico/blob/main/teste-tecnico/main.py) para funcionar o programa.
 
+Abaixo disso, há uma variável *db* que é a instanciação do meu banco de dados Firebase.
+
 Mais abaixo há um menu, que foi feito utilizando *while*, que pega a escolha do usuário e realiza a ação que ele desejar.
 
 No código para conversar com o chatbot (escolha 1), há o input de mensagens e o retorno do *response*, que será importante, pois este faz as verificações se a resposta do bot é uma despedida, se é uma avaliação positiva ou negativa.
