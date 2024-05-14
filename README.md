@@ -34,7 +34,7 @@ No código terá vários métodos:
 
 Há algumas variáveis definidas no ínicio, que são a *snapshot_version*, *api_key* e um *headers* que é um dicionário que recebe *api_key*.
 
-No código há uma variável *cred* que basicamente é o endereço em que o [chatbot-avaliacoes-firebase-adminsdk-e8k2s-edbb8c5bea.json](https://github.com/PedroVSX/verbeux-teste-tecnico/blob/main/teste-tecnico/chatbot-avaliacoes-firebase-adminsdk-e8k2s-edbb8c5bea.json) se encontra, é necessário ele estar no mesmo endereço que [main.py](https://github.com/PedroVSX/verbeux-teste-tecnico/blob/main/teste-tecnico/main.py) para funcionar o programa.
+No código há uma variável *cred* que basicamente é o endereço em que o [chatbot-avaliacoes-firebase-adminsdk-e8k2s-edbb8c5bea.json](https://github.com/PedroVSX/verbeux-teste-tecnico/blob/main/teste-tecnico/chatbot-avaliacoes-firebase-adminsdk-e8k2s-edbb8c5bea.json) se encontra, é necessário ele estar no mesmo endereço que [main.py](https://github.com/PedroVSX/verbeux-teste-tecnico/blob/main/teste-tecnico/main.py), portanto você terá que colocar no código o endereço que você salvou no seu computador para funcionar o programa.
 
 Abaixo disso, há uma variável *db* que é a instanciação do meu banco de dados Firebase.
 
